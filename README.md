@@ -1,5 +1,5 @@
 
-# CoderDost MERN Stack E-commerce Project - Backend Repository
+#  MERN Stack E-commerce Project - Backend Repository
 
 
 
